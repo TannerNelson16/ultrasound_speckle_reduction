@@ -1,2 +1,3 @@
-# ultrasound_speckle_reduction
-Replication of speckle noise reduction in ultrasound images using SRAD and guided filter
+![Image Description](attachments/Image_Processing-1.png)
+![Image Description](attachments/Image_Processing-2.png)
+![Image Description](attachments/Image_Processing-3.png)
